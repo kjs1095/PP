@@ -1,0 +1,6 @@
+thread 2's runtime = 42396110
+thread 3's runtime = 57297345
+thread 4's runtime = 60671038
+thread 1's runtime = 62721336
+thread 0's runtime = 63727119
+454:20,16,11,4,10,3,2,14,13,8,1,5,15,9,6,12,18,7,19,17 runtime = 63728265

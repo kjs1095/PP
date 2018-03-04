@@ -1,0 +1,21 @@
+thread 18's runtime = 59930768
+thread 14's runtime = 60241603
+thread 4's runtime = 60365901
+thread 8's runtime = 60502582
+thread 15's runtime = 60807290
+thread 3's runtime = 60898219
+thread 13's runtime = 60954193
+thread 7's runtime = 60944335
+thread 17's runtime = 60982946
+thread 2's runtime = 61194766
+thread 6's runtime = 61371078
+thread 1's runtime = 61382495
+thread 5's runtime = 61384801
+thread 9's runtime = 61579848
+thread 19's runtime = 61708408
+thread 0's runtime = 61957510
+thread 11's runtime = 62067119
+thread 12's runtime = 62248198
+thread 10's runtime = 62405450
+thread 16's runtime = 63752770
+454:20,16,11,4,10,3,2,14,13,8,1,5,15,9,6,12,18,7,19,17 #thread = 20, runtime = 63765222

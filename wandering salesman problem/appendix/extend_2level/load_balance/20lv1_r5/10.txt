@@ -1,0 +1,11 @@
+thread 0's runtime = 61483043
+thread 4's runtime = 61488331
+thread 8's runtime = 61640070
+thread 6's runtime = 61654101
+thread 2's runtime = 61785083
+thread 3's runtime = 61854677
+thread 9's runtime = 61863446
+thread 5's runtime = 62071984
+thread 7's runtime = 62334239
+thread 1's runtime = 63873163
+454:20,16,11,4,10,3,2,14,13,8,1,5,15,9,6,12,18,7,19,17 #thread = 10, runtime = 63881844
